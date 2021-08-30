@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831673472834",
+    "project_id": "girlishdemo",
+    "storage_bucket": "girlishdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831673472834:android:9c0953481723f1af47dadb",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831673472834-tqlauv749v7dqab7akor1ouee0epnul5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxt4oWKfBTP3lQAR2JEBwrX0bVgf_MZHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831673472834-tqlauv749v7dqab7akor1ouee0epnul5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
