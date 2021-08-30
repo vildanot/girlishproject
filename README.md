@@ -1,4 +1,4 @@
-# loginpage
+# Girlish: More than Agenda
 
 A new Flutter project.
 
